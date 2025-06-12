@@ -51,11 +51,11 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=/>penguin_botz</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/> 𝐒𝐮𝐩𝐩𝐨𝐫</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/+gUzXL9DB0wYzOGY1/> 𝐒𝐮𝐩𝐩𝐨𝐫t</a>
 
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/> 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
+📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+P0179QnT-8RmZjll/> 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ .
