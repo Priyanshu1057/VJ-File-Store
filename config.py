@@ -24,7 +24,7 @@ BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6725874739').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "Emma_trpbot") # without @
+BOT_USERNAME = environ.get("BOT_USERNAME", "doremonv7bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
@@ -64,10 +64,10 @@ SHORTLINK_API = environ.get("SHORTLINK_API", "") # shortlink api
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "") # how to open link 
 
 # Website Info:
-WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', False)) # Set True or False
+WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', True)) # Set True or False
 
 # If Website Url Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
-WEBSITE_URL = environ.get("WEBSITE_URL", "") # For More Information Check Video On Yt - @Tech_VJ
+WEBSITE_URL = environ.get("WEBSITE_URL", "https://penguinbotz.blogspot.com/2025/06/penguin-botz.html") # For More Information Check Video On Yt - @Tech_VJ
 
 # File Stream Config
 STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or False
